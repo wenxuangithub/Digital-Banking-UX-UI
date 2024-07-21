@@ -1,5 +1,5 @@
 ## Digital-Banking-App
-
+UX/UI Design of a Digital Bank using components with Figma
 
 • Developed interactive prototype with Figma, implementing component-based design system for digital banking app.
 
